@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Laura Saldarriaga
+Este proyecto es una prueba de como crear un repositorio en GitHub y clonarlo en mi pc
